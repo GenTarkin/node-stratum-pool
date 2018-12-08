@@ -28,7 +28,7 @@
         "url": "https://github.com/GenTarkin/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/GenTarkin/node-multi-hashing#673a513",
+        "multi-hashing": "git://github.com/GenTarkin/node-multi-hashing#f8d6b6b",
         "bignum": "0.12.5",
         "base58-native": "*",
         "async": "*"
